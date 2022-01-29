@@ -1,0 +1,4 @@
+Gris claro = 80, 80, 80
+Verde claro = 108, 194, 80
+Verde fuerte = 36, 120, 8
+link verde = 127, 255, 0

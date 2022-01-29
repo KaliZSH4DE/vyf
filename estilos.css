@@ -1,0 +1,14 @@
+body {
+  background-color: black;
+}
+
+h1, h2, h3, h4, h5, h6, p span, .VerdeFuerte {
+  color: rgb(36, 120, 8);
+}
+.VerdeClaro, p, h1 span, h2 span, h3 span, h4 span, h5 span, h6 span {
+  color: rgb(108, 194, 80);
+}
+
+a {
+  color: rgb(127, 255, 0);
+}
